@@ -1,7 +1,7 @@
-# AI-Studio-项目标题
+# AI-Studio-飞桨常规赛：论文引用节点分类
 
 ## 项目描述
-简要描述项目
+详见NOTEBOOK.ipynb文件
 
 ## 项目结构
 ```
